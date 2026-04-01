@@ -1,0 +1,122 @@
+{{ define "main" }}
+<main class="w-full bg-slate-900 min-h-screen">
+    <!-- Hero Article Header -->
+    <div class="relative w-full py-24 md:py-32 overflow-hidden flex items-end border-b border-slate-800">
+        <!-- Background Imagery & Gradients -->
+        <div class="absolute inset-0 w-full h-full bg-slate-950">
+            {{ if .Params.image }}
+            <img src="{{ .Params.image }}" alt="{{ .Title }}"
+                class="w-full h-full object-cover opacity-30 mix-blend-luminosity">
+            {{ else }}
+            <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=2070&auto=format&fit=crop"
+                class="w-full h-full object-cover opacity-20 grayscale mix-blend-luminosity">
+            {{ end }}
+            <div class="absolute inset-0 bg-gradient-to-t from-slate-900 via-slate-900/80 to-transparent"></div>
+            <div
+                class="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-red-900/40 via-transparent to-transparent opacity-60 mix-blend-screen">
+            </div>
+        </div>
+
+        <!-- Meta container -->
+        <div class="relative z-10 w-full px-6 md:px-12 mx-auto max-w-5xl">
+            <!-- System Breadcrumb -->
+            <div class="flex items-center gap-4 mb-8">
+                <a href="/"
+                    class="text-[0.65rem] md:text-xs uppercase font-bold tracking-[0.2em] text-slate-500 hover:text-red-500 transition-colors">Root</a>
+                <span class="text-slate-700">/</span>
+                <span
+                    class="text-[0.65rem] md:text-xs uppercase font-bold tracking-[0.2em] text-amber-500 bg-amber-500/10 px-2 py-0.5 border border-amber-500/20">Data
+                    Stream</span>
+            </div>
+
+            <!-- Massive Article Title -->
+            <h1
+                class="text-4xl md:text-5xl lg:text-[4.5rem] font-black text-white uppercase tracking-tighter leading-[1] mb-10 drop-shadow-2xl">
+                {{ .Title }}
+            </h1>
+
+            <!-- Tactical Metadata Row -->
+            <div class="flex flex-wrap items-center gap-6 md:gap-10 border-t border-slate-800/80 pt-6">
+                <!-- Origin -->
+                <div class="flex items-center gap-3">
+                    <div class="w-10 h-10 rounded-sm border border-slate-700 bg-slate-800/80 flex items-center justify-center"
+                        style="clip-path: polygon(25% 0%, 100% 0, 100% 75%, 75% 100%, 0 100%, 0% 25%);">
+                        <!-- Tiny avatar or icon -->
+                        <svg class="w-5 h-5 text-slate-400" viewBox="0 0 20 20" fill="currentColor">
+                            <path d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" />
+                        </svg>
+                    </div>
+                    <div class="flex flex-col">
+                        <span class="text-[0.6rem] uppercase font-mono tracking-widest text-slate-500">Origin</span>
+                        <span class="text-[0.75rem] font-bold text-white tracking-widest uppercase">Heet Command</span>
+                    </div>
+                </div>
+
+                <div class="h-8 w-[1px] bg-slate-800 hidden md:block"></div>
+
+                <!-- Timestamp -->
+                <div class="flex flex-col">
+                    <span class="text-[0.6rem] uppercase font-mono tracking-widest text-slate-500">Timestamp</span>
+                    <time class="text-[0.75rem] font-bold text-slate-300 tracking-widest uppercase">{{ .Date.Format
+                        "2006.01.02" }}</time>
+                </div>
+
+                <div class="h-8 w-[1px] bg-slate-800 hidden sm:block"></div>
+
+                <!-- Telemetry -->
+                <div class="flex flex-col">
+                    <span class="text-[0.6rem] uppercase font-mono tracking-widest text-slate-500">Telemetry</span>
+                    <span class="text-xs font-bold text-red-500 tracking-widest uppercase">{{ .WordCount }} Units</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Article Content Layout -->
+    <div class="relative w-full px-6 md:px-12 py-16 mx-auto max-w-5xl flex flex-col lg:flex-row gap-12">
+
+        <!-- Left Side Vertical Cyber Accent -->
+        <div class="hidden lg:flex flex-col items-center pt-2">
+            <div class="w-2 h-32 bg-gradient-to-b from-red-600 to-transparent"></div>
+            <div class="w-[1px] h-full bg-slate-800/80 mt-4"></div>
+        </div>
+
+        <!-- Robust Custom Markdown Styling for Tech/Gaming Vibe -->
+        <article class="flex-1 text-lg text-slate-300 leading-relaxed font-medium pb-24
+            [&>h1]:text-4xl [&>h1]:font-black [&>h1]:text-white [&>h1]:uppercase [&>h1]:tracking-tighter [&>h1]:mb-6 [&>h1]:mt-12
+            [&>h2]:text-3xl [&>h2]:font-black [&>h2]:text-white [&>h2]:uppercase [&>h2]:tracking-tighter [&>h2]:mb-8 [&>h2]:mt-16 [&>h2]:before:content-['//'] [&>h2]:before:text-red-500 [&>h2]:before:mr-3
+            [&>h3]:text-xl [&>h3]:font-black [&>h3]:text-slate-100 [&>h3]:uppercase [&>h3]:tracking-widest [&>h3]:mb-4 [&>h3]:mt-10
+            [&>p]:mb-8 [&>p]:leading-[1.8]
+            [&>a]:text-amber-400 [&>a]:underline [&>a]:decoration-amber-400/30 [&>a]:underline-offset-8 hover:[&>a]:decoration-amber-400 [&>a]:transition-colors
+            [&>ul]:list-square [&>ul]:pl-6 [&>ul]:mb-8 [&>ul]:marker:text-red-500
+            [&>ol]:list-decimal [&>ol]:pl-6 [&>ol]:mb-8 [&>ol]:marker:text-red-500 [&>ol]:marker:font-black
+            [&>blockquote]:border-l-4 [&>blockquote]:border-red-600 [&>blockquote]:bg-slate-800/30 [&>blockquote]:p-8 [&>blockquote]:mb-8 [&>blockquote]:text-slate-400 [&>blockquote>p]:mb-0
+            [&>pre]:bg-slate-950 [&>pre]:border [&>pre]:border-slate-800 [&>pre]:rounded-sm [&>pre]:p-8 [&>pre]:mb-8 [&>pre]:overflow-x-auto [&>pre]:text-sm
+            [&>code]:bg-slate-800 [&>code]:text-amber-300 [&>code]:px-2 [&>code]:py-0.5 [&>code]:rounded-sm [&>code]:font-mono [&>code]:text-sm
+            [&>img]:rounded-sm [&>img]:border-2 [&>img]:border-slate-800 [&>img]:mb-8 [&>img]:w-full
+            [&>hr]:border-t-2 [&>hr]:border-dashed [&>hr]:border-slate-800 [&>hr]:my-16">
+
+            {{ .Content }}
+
+        </article>
+    </div>
+
+    <!-- System Footer / Return Area -->
+    <div class="border-t border-slate-800 bg-slate-950/50">
+        <div class="mx-auto max-w-5xl px-6 py-20 text-center flex flex-col items-center">
+            <h3 class="text-xs font-mono uppercase font-bold tracking-[0.4em] text-slate-500 mb-10">End of Transmission
+            </h3>
+
+            <a href="/"
+                class="group relative inline-flex items-center justify-center gap-4 bg-slate-800 border border-slate-700 px-10 py-5 text-xs font-black uppercase tracking-[0.3em] text-slate-300 hover:bg-red-600 hover:text-white hover:border-red-600 transition-all duration-300"
+                style="clip-path: polygon(15px 0, 100% 0, 100% calc(100% - 15px), calc(100% - 15px) 100%, 0 100%, 0 15px);">
+                <svg class="h-4 w-4 transition-transform duration-300 group-hover:-translate-x-2" viewBox="0 0 24 24"
+                    fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="square">
+                    <path d="M19 12H5M12 19l-7-7 7-7" />
+                </svg>
+                Return to Network
+            </a>
+        </div>
+    </div>
+</main>
+{{ end }}
