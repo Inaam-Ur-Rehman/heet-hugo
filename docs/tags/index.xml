@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Heet</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on Heet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Apr 2026 14:30:00 +0500</lastBuildDate>
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Esports</title>
+      <link>https://example.org/tags/esports/</link>
+      <pubDate>Wed, 01 Apr 2026 14:30:00 +0500</pubDate>
+      <guid>https://example.org/tags/esports/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FPS</title>
+      <link>https://example.org/tags/fps/</link>
+      <pubDate>Wed, 01 Apr 2026 14:30:00 +0500</pubDate>
+      <guid>https://example.org/tags/fps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tournament</title>
+      <link>https://example.org/tags/tournament/</link>
+      <pubDate>Wed, 01 Apr 2026 14:30:00 +0500</pubDate>
+      <guid>https://example.org/tags/tournament/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardware</title>
+      <link>https://example.org/tags/hardware/</link>
+      <pubDate>Tue, 31 Mar 2026 09:15:00 +0500</pubDate>
+      <guid>https://example.org/tags/hardware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Leaks</title>
+      <link>https://example.org/tags/leaks/</link>
+      <pubDate>Tue, 31 Mar 2026 09:15:00 +0500</pubDate>
+      <guid>https://example.org/tags/leaks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Next-Gen</title>
+      <link>https://example.org/tags/next-gen/</link>
+      <pubDate>Tue, 31 Mar 2026 09:15:00 +0500</pubDate>
+      <guid>https://example.org/tags/next-gen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>https://example.org/tags/ai/</link>
+      <pubDate>Mon, 30 Mar 2026 18:45:00 +0500</pubDate>
+      <guid>https://example.org/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>https://example.org/tags/development/</link>
+      <pubDate>Mon, 30 Mar 2026 18:45:00 +0500</pubDate>
+      <guid>https://example.org/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RPG</title>
+      <link>https://example.org/tags/rpg/</link>
+      <pubDate>Mon, 30 Mar 2026 18:45:00 +0500</pubDate>
+      <guid>https://example.org/tags/rpg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Immersion</title>
+      <link>https://example.org/tags/immersion/</link>
+      <pubDate>Sun, 29 Mar 2026 11:20:00 +0500</pubDate>
+      <guid>https://example.org/tags/immersion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VR</title>
+      <link>https://example.org/tags/vr/</link>
+      <pubDate>Sun, 29 Mar 2026 11:20:00 +0500</pubDate>
+      <guid>https://example.org/tags/vr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Analytics</title>
+      <link>https://example.org/tags/analytics/</link>
+      <pubDate>Sat, 28 Mar 2026 16:05:00 +0500</pubDate>
+      <guid>https://example.org/tags/analytics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Community</title>
+      <link>https://example.org/tags/community/</link>
+      <pubDate>Sat, 28 Mar 2026 16:05:00 +0500</pubDate>
+      <guid>https://example.org/tags/community/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Speedrun</title>
+      <link>https://example.org/tags/speedrun/</link>
+      <pubDate>Sat, 28 Mar 2026 16:05:00 +0500</pubDate>
+      <guid>https://example.org/tags/speedrun/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Indie</title>
+      <link>https://example.org/tags/indie/</link>
+      <pubDate>Fri, 27 Mar 2026 10:30:00 +0500</pubDate>
+      <guid>https://example.org/tags/indie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Market</title>
+      <link>https://example.org/tags/market/</link>
+      <pubDate>Fri, 27 Mar 2026 10:30:00 +0500</pubDate>
+      <guid>https://example.org/tags/market/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Preservation</title>
+      <link>https://example.org/tags/preservation/</link>
+      <pubDate>Thu, 26 Mar 2026 14:45:00 +0500</pubDate>
+      <guid>https://example.org/tags/preservation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Retro</title>
+      <link>https://example.org/tags/retro/</link>
+      <pubDate>Thu, 26 Mar 2026 14:45:00 +0500</pubDate>
+      <guid>https://example.org/tags/retro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloud</title>
+      <link>https://example.org/tags/cloud/</link>
+      <pubDate>Wed, 25 Mar 2026 09:20:00 +0500</pubDate>
+      <guid>https://example.org/tags/cloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Infrastructure</title>
+      <link>https://example.org/tags/infrastructure/</link>
+      <pubDate>Wed, 25 Mar 2026 09:20:00 +0500</pubDate>
+      <guid>https://example.org/tags/infrastructure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>https://example.org/tags/tech/</link>
+      <pubDate>Wed, 25 Mar 2026 09:20:00 +0500</pubDate>
+      <guid>https://example.org/tags/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Engine</title>
+      <link>https://example.org/tags/engine/</link>
+      <pubDate>Tue, 24 Mar 2026 17:10:00 +0500</pubDate>
+      <guid>https://example.org/tags/engine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Industry</title>
+      <link>https://example.org/tags/industry/</link>
+      <pubDate>Tue, 24 Mar 2026 17:10:00 +0500</pubDate>
+      <guid>https://example.org/tags/industry/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

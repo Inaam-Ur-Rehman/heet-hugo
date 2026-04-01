@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RPG on Heet</title>
+    <link>https://example.org/tags/rpg/</link>
+    <description>Recent content in RPG on Heet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Mar 2026 18:45:00 +0500</lastBuildDate>
+    <atom:link href="https://example.org/tags/rpg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithmic Dungeons: When AI Plays Dungeon Master</title>
+      <link>https://example.org/posts/04-ai-dungeons/</link>
+      <pubDate>Mon, 30 Mar 2026 18:45:00 +0500</pubDate>
+      <guid>https://example.org/posts/04-ai-dungeons/</guid>
+      <description>Local LLMs are being integrated directly into RPG logic systems, resulting in NPCs that converse dynamically and worlds that react fluidly.</description>
+    </item>
+  </channel>
+</rss>
