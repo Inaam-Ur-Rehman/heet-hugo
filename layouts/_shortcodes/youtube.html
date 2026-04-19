@@ -1,0 +1,25 @@
+<div class="my-8 relative group">
+    <!-- Cyberpunk Border Container -->
+    <div class="relative bg-slate-950 border border-slate-800 p-2 shadow-2xl transition-colors hover:border-red-600/50"
+        style="clip-path: polygon(0 0, 100% 0, 100% calc(100% - 20px), calc(100% - 20px) 100%, 0 100%, 0 20px);">
+        <!-- Decorative scanner line -->
+        <div class="absolute left-0 top-0 w-1 h-full bg-slate-800 group-hover:bg-red-600 transition-colors"></div>
+        
+        <!-- Video Wrapper -->
+        <div class="relative w-full aspect-video bg-black" style="clip-path: polygon(0 0, 100% 0, 100% calc(100% - 15px), calc(100% - 15px) 100%, 0 100%, 0 15px);">
+            <iframe 
+                src="https://www.youtube-nocookie.com/embed/{{ .Get "id" }}{{ if .Get "autoplay" }}?autoplay=1{{ end }}" 
+                class="absolute top-0 left-0 w-full h-full border-0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                allowfullscreen>
+            </iframe>
+        </div>
+        
+        {{ with .Get "caption" }}
+        <div class="mt-3 flex items-center gap-2 pl-4 pb-1">
+            <span class="w-1.5 h-1.5 bg-amber-500 animate-pulse"></span>
+            <span class="text-[0.65rem] text-slate-500 uppercase tracking-widest font-mono">{{ . }}</span>
+        </div>
+        {{ end }}
+    </div>
+</div>

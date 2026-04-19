@@ -1,0 +1,26 @@
+{{ $user := .Get "user" | default "x" }}
+{{ $id := .Get "id" }}
+
+<div class="my-8 relative group max-w-xl">
+    <div class="relative bg-slate-950 border border-slate-800 p-2 shadow-2xl transition-colors hover:border-slate-500"
+        style="clip-path: polygon(0 0, 100% 0, 100% calc(100% - 20px), calc(100% - 20px) 100%, 0 100%, 0 20px);">
+        
+        <div class="absolute left-0 top-0 w-1 h-full bg-slate-800 group-hover:bg-slate-300 transition-colors"></div>
+        
+        <!-- X Header -->
+        <div class="flex items-center gap-2 pl-3 pt-2 pb-2">
+            <svg class="w-3.5 h-3.5 text-slate-400 group-hover:text-white transition-colors" fill="currentColor" viewBox="0 0 24 24">
+                <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
+            </svg>
+            <span class="text-[0.65rem] text-slate-500 uppercase tracking-widest font-mono group-hover:text-slate-400 transition-colors">Network Intercept / Signal X</span>
+        </div>
+
+        <div class="bg-black/50 relative px-2 py-1" style="clip-path: polygon(0 0, 100% 0, 100% calc(100% - 15px), calc(100% - 15px) 100%, 0 100%, 0 15px);">
+            <!-- Twitter widget -->
+            <blockquote class="twitter-tweet" data-theme="dark" data-width="100%">
+                <a href="https://twitter.com/{{ $user }}/status/{{ $id }}"></a>
+            </blockquote>
+            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+    </div>
+</div>

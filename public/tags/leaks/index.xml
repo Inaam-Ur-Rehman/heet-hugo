@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leaks on Heet</title>
+    <link>http://localhost:1313/tags/leaks/</link>
+    <description>Recent content in Leaks on Heet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Mar 2026 09:15:00 +0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/leaks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Next-Gen Hardware: The Quantium Chip Leak</title>
+      <link>http://localhost:1313/posts/03-next-gen-hardware/</link>
+      <pubDate>Tue, 31 Mar 2026 09:15:00 +0500</pubDate>
+      <guid>http://localhost:1313/posts/03-next-gen-hardware/</guid>
+      <description>Hardware supply chains have leaked schematics for what appears to be a fundamentally new console architecture utilizing quantum-state memory buffers.</description>
+    </item>
+  </channel>
+</rss>

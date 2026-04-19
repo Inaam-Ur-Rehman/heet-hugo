@@ -1,0 +1,23 @@
+{{ $appid := .Get "id" }}
+<div class="my-8 relative group max-w-[646px]">
+    <!-- Container -->
+    <div class="relative bg-slate-950 border border-slate-800 p-2 shadow-2xl transition-colors hover:border-[#66c0f4]/50"
+        style="clip-path: polygon(0 0, 100% 0, 100% calc(100% - 20px), calc(100% - 20px) 100%, 0 100%, 0 20px);">
+        
+        <!-- Glow line on hover -->
+        <div class="absolute left-0 top-0 w-[3px] h-full bg-slate-800 group-hover:bg-[#66c0f4] transition-colors shadow-[0_0_10px_#66c0f4] opacity-0 group-hover:opacity-100"></div>
+        <div class="absolute left-0 top-0 w-[3px] h-full bg-slate-800 group-hover:bg-transparent transition-colors"></div>
+
+        <!-- Header -->
+        <div class="flex items-center gap-2 pl-3 pt-2 pb-2">
+            <span class="w-1.5 h-1.5 bg-[#66c0f4] animate-ping"></span>
+            <span class="w-1.5 h-1.5 bg-slate-600"></span>
+            <span class="text-[0.65rem] text-slate-500 uppercase tracking-widest font-mono group-hover:text-slate-400 transition-colors">Steam Database Uplink</span>
+        </div>
+
+        <div class="bg-black relative px-1 py-1" style="clip-path: polygon(0 0, 100% 0, 100% calc(100% - 15px), calc(100% - 15px) 100%, 0 100%, 0 15px);">
+            <!-- Steam iframe -->
+            <iframe src="https://store.steampowered.com/widget/{{ $appid }}/" frameborder="0" width="100%" height="190" class="w-full grayscale group-hover:grayscale-0 transition-all duration-500"></iframe>
+        </div>
+    </div>
+</div>
