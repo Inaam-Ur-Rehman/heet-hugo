@@ -4,7 +4,7 @@ date = 2026-06-05T10:00:00+05:00
 draft = false
 image = 'hero.webp'
 summary = 'Helldivers 2 bumps the level cap to 150, adds blizzards and sandstorms, and stealthily deploys the "Factory Strider"—a massive, heavily armed Automaton walking fortress that spawns Devastators.'
-tags = ["helldivers-2", "gaming-news", "automatons", "factory-strider", "patch-notes"]
+tags = ['esports']
 +++
 
 The game **Helldivers 2** has received a recent update which includes adjustments to the game's balance and the introduction of new types of bad weather, such as snow and sandstorms. Additionally, the level cap has been increased from 50 to 150.

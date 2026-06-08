@@ -4,7 +4,7 @@ date = 2026-06-03T10:00:00+05:00
 draft = false
 image = '96178ab2-4b06-400f-bb8d-9d100987febf.webp'
 summary = 'In the realm of CS GO news, an unexpected event unfolded during the G2 vs MOUZ match at the CS GO Major in Copenhagen, sparking widespread attention in the esports community.'
-tags = ['esports', 'G2 vs Mouz', 'Gaming news', 'Stage Invasion']
+tags = ['esports']
 +++
 
 In the realm of CS GO news https://www.heet.gg/, an unexpected event unfolded during the G2 vs MOUZ match at the CS GO Major in Copenhagen, sparking widespread attention in the esports community. The incident, occurring on March 29, 2024, saw unknown individuals attempt to storm the stage, a protest linked to G2's partnership with online casino CSGORoll, highlighting the intense moments that can arise in Counter Strike Global Offensive events.

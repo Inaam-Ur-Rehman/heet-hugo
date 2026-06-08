@@ -4,7 +4,7 @@ date = 2026-06-04T10:00:00+05:00
 draft = false
 image = 'hero.webp'
 summary = 'PGL will host 11 Tier 1 CS2 events through 2025–2026, breaking market monopolies under new anti-conflict rules to elevate global esports competition.'
-tags = ["esports", "counter-strike", "gaming", "intel"]
+tags = ['esports']
 +++
 
 PGL pledges to participate in several Tier 1 Counter-Strike events from 2025 to 2026 and beyond.

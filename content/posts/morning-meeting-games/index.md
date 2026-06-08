@@ -4,7 +4,7 @@ date = 2026-06-05T10:00:00+05:00
 draft = false
 image = 'shitgames.webp'
 summary = 'Boost morale with engaging morning meeting games like Pictionary and Two Truths and a Lie. These icebreakers spark creativity, foster workplace teamwork, and transform daily assemblies.'
-tags =  ['esports', "morning-meeting-games", "team-building-activities", "icebreaker-games", "creativity-in-the-workplace", "teamwork-exercises", "morning-assembly-ideas", "engaging-meeting-starters", "workplace-games", "group-dynamics", "productivity-boosters"]
+tags = ['esports']
 +++
 
 Morning assemblies are the heartbeat of various institutions - offices, schools, and similar setups. These get-togethers are the fiery launching pads that kick off the day, enabling fruitful interactions and boosting morale and output. An engaging twist to these gatherings? Inject them with a daily dose of lively morning meeting games. Such games are fantastic icebreakers, champions of camaraderie, and creativity igniters. Let's dive into a selection of top-notch games for your morning meetings:

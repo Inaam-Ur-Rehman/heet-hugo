@@ -4,7 +4,7 @@ date = 2026-06-05T10:00:00+05:00
 draft = false
 image = 'hero.webp'
 summary = 'Keep the excitement high with top indoor games for youth groups! From scavenger hunts to human knots, unleash fun and teamwork indoors.'
-tags =  ["indoor-youth-group-games", "team-building-activities", "indoor-scavenger-hunt", "group-problem-solving", "creative-indoor-games", "engaging-activities-for-teens", "indoor-obstacle-course", "indoor-group-dynamics", "youth-group-icebreakers", "fun-indoor-teamwork-games"]
+tags = ['esports']
 +++
 
 Keeping kids and teenagers busy and happy can be super important. When you're leading a group of young people and need to stay indoors, you want to find activities that are a perfect mix of fun and useful. Even though you might be stuck inside, you can still come up with some awesome ways to get creative and connect. Here are some of the best youth group games indoors that keep the excitement high and also help everyone work together, chat, and solve puzzles.

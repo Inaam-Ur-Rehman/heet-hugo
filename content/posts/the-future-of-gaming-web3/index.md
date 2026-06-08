@@ -4,7 +4,7 @@ date = 2026-06-02T10:00:00+05:00
 draft = false
 image = 'hero.webp'
 summary = 'As an avid gamer and technology enthusiast, I have witnessed firsthand the remarkable evolution of the gaming industry. From pixelated screens to immersive 3D environments, the transformation has been nothing short of a digital renaissance.'
-tags = ['esports','Web3', 'Gaming platforms']
+tags = ['esports']
 +++
 
 As an avid gamer and technology enthusiast, I've witnessed firsthand the remarkable evolution of the gaming industry. From pixelated screens to immersive 3D environments, the transformation has been nothing short of a digital renaissance. Today, we stand on the cusp of another monumental shift – the advent of web3 gaming. In this in-depth exploration, I'll guide you through the intricate web of web3 gaming, a realm that's poised to redefine our gaming experiences and expectations.
