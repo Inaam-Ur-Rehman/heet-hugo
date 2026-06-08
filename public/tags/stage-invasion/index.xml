@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stage Invasion on Heet</title>
+    <link>http://localhost:1313/tags/stage-invasion/</link>
+    <description>Recent content in Stage Invasion on Heet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jun 2026 10:00:00 +0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/stage-invasion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CS GO News: Inside the G2 vs Mouz Match Stage Invasion</title>
+      <link>http://localhost:1313/posts/csgo-news-inside-the-g2-vs-mouz-match-stage-invasion/</link>
+      <pubDate>Wed, 03 Jun 2026 10:00:00 +0500</pubDate>
+      <guid>http://localhost:1313/posts/csgo-news-inside-the-g2-vs-mouz-match-stage-invasion/</guid>
+      <description>In the realm of CS GO news, an unexpected event unfolded during the G2 vs MOUZ match at the CS GO Major in Copenhagen, sparking widespread attention in the esports community.</description>
+    </item>
+  </channel>
+</rss>

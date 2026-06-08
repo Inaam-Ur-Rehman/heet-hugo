@@ -5,19 +5,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hardware - Heet</title>
-    
+
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;700;900&display=swap" rel="stylesheet">
-    
+
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <style>
-        body { font-family: 'Outfit', sans-serif; }
+        body {
+            font-family: 'Outfit', sans-serif;
+        }
     </style>
 </head>
 
-<body class="bg-slate-900 text-slate-100 selection:bg-amber-400 selection:text-slate-900 font-sans antialiased flex flex-col min-h-screen">
+<body
+    class="bg-slate-900 text-slate-100 selection:bg-amber-400 selection:text-slate-900 font-sans antialiased flex flex-col min-h-screen">
     
     <header class="sticky top-0 z-50 w-full border-b border-slate-700 bg-slate-900/90 backdrop-blur-xl px-4 sm:px-6 py-4">
     <div class="mx-auto flex max-w-[100rem] items-center justify-between">
@@ -117,7 +120,7 @@
         });
     });
 </script>
-    
+
     <div class="flex-grow">
         
 <main class="w-full bg-slate-900 pb-24">
@@ -163,44 +166,12 @@
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             
-            
-            <div class="group relative flex flex-col bg-slate-800 border border-slate-700 hover:border-red-600/50 transition-colors duration-300 p-6" style="clip-path: polygon(0 0, 100% 0, 100% 90%, 90% 100%, 0 100%);">
-                <span class="text-xs font-bold uppercase tracking-widest text-amber-500 mb-4">2026.03.31</span>
-                <h3 class="text-2xl font-black uppercase text-white mb-4 line-clamp-2 leading-[1.1]"><a class="after:absolute after:inset-0" href="http://localhost:1313/posts/03-next-gen-hardware/">Next-Gen Hardware: The Quantium Chip Leak</a></h3>
-                <p class="text-slate-400 font-medium line-clamp-3 mb-6">Hardware supply chains have leaked schematics for what appears to be a fundamentally new console architecture utilizing quantum-state memory buffers.</p>
-                <div class="mt-auto flex items-center gap-2 text-red-500 text-sm font-bold uppercase tracking-widest">
-                    Load Asset 
-                    <svg class="h-4 w-4 transition-transform group-hover:translate-x-1" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <path d="M5 12h14M12 5l7 7-7 7"/>
+                <div class="col-span-full py-16 flex flex-col items-center justify-center border border-slate-800 bg-slate-900/50" style="clip-path: polygon(20px 0, 100% 0, 100% calc(100% - 20px), calc(100% - 20px) 100%, 0 100%, 0 20px);">
+                    <svg class="w-12 h-12 text-slate-700 mb-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
                     </svg>
+                    <p class="text-slate-500 uppercase tracking-widest text-sm font-bold">Error: No intel streams found in this directory.</p>
                 </div>
-            </div>
-            
-            
-            <div class="group relative flex flex-col bg-slate-800 border border-slate-700 hover:border-red-600/50 transition-colors duration-300 p-6" style="clip-path: polygon(0 0, 100% 0, 100% 90%, 90% 100%, 0 100%);">
-                <span class="text-xs font-bold uppercase tracking-widest text-amber-500 mb-4">2026.03.29</span>
-                <h3 class="text-2xl font-black uppercase text-white mb-4 line-clamp-2 leading-[1.1]"><a class="after:absolute after:inset-0" href="http://localhost:1313/posts/05-vr-screens/">Virtual Reality Reaches Retina Resolution</a></h3>
-                <p class="text-slate-400 font-medium line-clamp-3 mb-6">The biggest complaint about VR—the screen door effect—is finally dead thanks to new micro-OLED manufacturing techniques.</p>
-                <div class="mt-auto flex items-center gap-2 text-red-500 text-sm font-bold uppercase tracking-widest">
-                    Load Asset 
-                    <svg class="h-4 w-4 transition-transform group-hover:translate-x-1" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <path d="M5 12h14M12 5l7 7-7 7"/>
-                    </svg>
-                </div>
-            </div>
-            
-            
-            <div class="group relative flex flex-col bg-slate-800 border border-slate-700 hover:border-red-600/50 transition-colors duration-300 p-6" style="clip-path: polygon(0 0, 100% 0, 100% 90%, 90% 100%, 0 100%);">
-                <span class="text-xs font-bold uppercase tracking-widest text-amber-500 mb-4">2026.03.26</span>
-                <h3 class="text-2xl font-black uppercase text-white mb-4 line-clamp-2 leading-[1.1]"><a class="after:absolute after:inset-0" href="http://localhost:1313/posts/08-retro-revival/">Retro Revival: When Pixels Cost a Premium</a></h3>
-                <p class="text-slate-400 font-medium line-clamp-3 mb-6">Original hardware CRTs and cartridge batteries are failing globally, leading to a massive spike in hardware preservation efforts.</p>
-                <div class="mt-auto flex items-center gap-2 text-red-500 text-sm font-bold uppercase tracking-widest">
-                    Load Asset 
-                    <svg class="h-4 w-4 transition-transform group-hover:translate-x-1" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <path d="M5 12h14M12 5l7 7-7 7"/>
-                    </svg>
-                </div>
-            </div>
             
         </div>
         
@@ -319,6 +290,15 @@
     </div>
 </footer>
 
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3CML751JJP"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-3CML751JJP');
+    </script>
 </body>
 
 </html>

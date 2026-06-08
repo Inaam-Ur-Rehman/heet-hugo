@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gaming-News on Heet</title>
+    <link>http://localhost:1313/tags/gaming-news/</link>
+    <description>Recent content in Gaming-News on Heet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Jun 2026 10:00:00 +0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gaming-news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tough New AT-AT-Like Enemy in Helldivers 2</title>
+      <link>http://localhost:1313/posts/tough-new-at-at-like-enemy-in/</link>
+      <pubDate>Fri, 05 Jun 2026 10:00:00 +0500</pubDate>
+      <guid>http://localhost:1313/posts/tough-new-at-at-like-enemy-in/</guid>
+      <description>Helldivers 2 bumps the level cap to 150, adds blizzards and sandstorms, and stealthily deploys the &amp;ldquo;Factory Strider&amp;rdquo;—a massive, heavily armed Automaton walking fortress that spawns Devastators.</description>
+    </item>
+    <item>
+      <title>CS GO News: Inside the G2 vs Mouz Match Stage Invasion</title>
+      <link>http://localhost:1313/posts/csgo-news-inside-the-g2-vs-mouz-match-stage-invasion/</link>
+      <pubDate>Wed, 03 Jun 2026 10:00:00 +0500</pubDate>
+      <guid>http://localhost:1313/posts/csgo-news-inside-the-g2-vs-mouz-match-stage-invasion/</guid>
+      <description>In the realm of CS GO news, an unexpected event unfolded during the G2 vs MOUZ match at the CS GO Major in Copenhagen, sparking widespread attention in the esports community.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team-Building-Activities on Heet</title>
+    <link>http://localhost:1313/tags/team-building-activities/</link>
+    <description>Recent content in Team-Building-Activities on Heet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Jun 2026 10:00:00 +0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/team-building-activities/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Indoor games for youth</title>
+      <link>http://localhost:1313/posts/indoor-games-for-youth/</link>
+      <pubDate>Fri, 05 Jun 2026 10:00:00 +0500</pubDate>
+      <guid>http://localhost:1313/posts/indoor-games-for-youth/</guid>
+      <description>Keep the excitement high with top indoor games for youth groups! From scavenger hunts to human knots, unleash fun and teamwork indoors.</description>
+    </item>
+    <item>
+      <title>Kickstart Your Day Right: Lively Morning Meeting Games to Spark Creativity and Teamwork</title>
+      <link>http://localhost:1313/posts/morning-meeting-games/</link>
+      <pubDate>Fri, 05 Jun 2026 10:00:00 +0500</pubDate>
+      <guid>http://localhost:1313/posts/morning-meeting-games/</guid>
+      <description>Boost morale with engaging morning meeting games like Pictionary and Two Truths and a Lie. These icebreakers spark creativity, foster workplace teamwork, and transform daily assemblies.</description>
+    </item>
+  </channel>
+</rss>

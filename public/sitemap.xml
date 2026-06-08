@@ -2,122 +2,128 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/cyberpunk/</loc>
-    <lastmod>2026-04-02T10:00:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/automatons/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-02T10:00:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/creative-indoor-games/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mods/</loc>
-    <lastmod>2026-04-02T10:00:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/creativity-in-the-workplace/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-04-02T10:00:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/engaging-activities-for-teens/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rpg/</loc>
-    <lastmod>2026-04-02T10:00:00+05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-04-02T10:00:00+05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/01-cyberpunk-2077-revival/</loc>
-    <lastmod>2026-04-02T10:00:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/engaging-meeting-starters/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/esports/</loc>
-    <lastmod>2026-04-01T14:30:00+05:00</lastmod>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/fps/</loc>
-    <lastmod>2026-04-01T14:30:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/factory-strider/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/02-esports-championship/</loc>
-    <lastmod>2026-04-01T14:30:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/fun-indoor-teamwork-games/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tournament/</loc>
-    <lastmod>2026-04-01T14:30:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/gaming-news/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hardware/</loc>
-    <lastmod>2026-03-31T09:15:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/group-dynamics/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/leaks/</loc>
-    <lastmod>2026-03-31T09:15:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/group-problem-solving/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/next-gen/</loc>
-    <lastmod>2026-03-31T09:15:00+05:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/03-next-gen-hardware/</loc>
-    <lastmod>2026-03-31T09:15:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/helldivers-2/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2026-03-30T23:32:01+05:00</lastmod>
+    <loc>http://localhost:1313/tags/icebreaker-games/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ai/</loc>
-    <lastmod>2026-03-30T18:45:00+05:00</lastmod>
+    <loc>http://localhost:1313/posts/indoor-games-for-youth/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/04-ai-dungeons/</loc>
-    <lastmod>2026-03-30T18:45:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/indoor-group-dynamics/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/development/</loc>
-    <lastmod>2026-03-30T18:45:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/indoor-obstacle-course/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/immersion/</loc>
-    <lastmod>2026-03-29T11:20:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/indoor-scavenger-hunt/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/05-vr-screens/</loc>
-    <lastmod>2026-03-29T11:20:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/indoor-youth-group-games/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/vr/</loc>
-    <lastmod>2026-03-29T11:20:00+05:00</lastmod>
+    <loc>http://localhost:1313/posts/morning-meeting-games/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/analytics/</loc>
-    <lastmod>2026-03-28T16:05:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/morning-assembly-ideas/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/community/</loc>
-    <lastmod>2026-03-28T16:05:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/morning-meeting-games/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/speedrun/</loc>
-    <lastmod>2026-03-28T16:05:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/patch-notes/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/06-speedrun-revolution/</loc>
-    <lastmod>2026-03-28T16:05:00+05:00</lastmod>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/indie/</loc>
-    <lastmod>2026-03-27T10:30:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/productivity-boosters/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/market/</loc>
-    <lastmod>2026-03-27T10:30:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/07-indie-domination/</loc>
-    <lastmod>2026-03-27T10:30:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/team-building-activities/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/preservation/</loc>
-    <lastmod>2026-03-26T14:45:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/teamwork-exercises/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/retro/</loc>
-    <lastmod>2026-03-26T14:45:00+05:00</lastmod>
+    <loc>http://localhost:1313/posts/tough-new-at-at-like-enemy-in/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/08-retro-revival/</loc>
-    <lastmod>2026-03-26T14:45:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/workplace-games/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cloud/</loc>
-    <lastmod>2026-03-25T09:20:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/youth-group-icebreakers/</loc>
+    <lastmod>2026-06-05T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/09-cloud-gaming/</loc>
-    <lastmod>2026-03-25T09:20:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/counter-strike/</loc>
+    <lastmod>2026-06-04T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/infrastructure/</loc>
-    <lastmod>2026-03-25T09:20:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/gaming/</loc>
+    <lastmod>2026-06-04T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tech/</loc>
-    <lastmod>2026-03-25T09:20:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/intel/</loc>
+    <lastmod>2026-06-04T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/engine/</loc>
-    <lastmod>2026-03-24T17:10:00+05:00</lastmod>
+    <loc>http://localhost:1313/posts/the-pgl-cs2-2025-2026-tournaments/</loc>
+    <lastmod>2026-06-04T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/industry/</loc>
-    <lastmod>2026-03-24T17:10:00+05:00</lastmod>
+    <loc>http://localhost:1313/posts/csgo-news-inside-the-g2-vs-mouz-match-stage-invasion/</loc>
+    <lastmod>2026-06-03T10:00:00+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/10-engine-wars/</loc>
-    <lastmod>2026-03-24T17:10:00+05:00</lastmod>
+    <loc>http://localhost:1313/tags/g2-vs-mouz/</loc>
+    <lastmod>2026-06-03T10:00:00+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/stage-invasion/</loc>
+    <lastmod>2026-06-03T10:00:00+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gaming-platforms/</loc>
+    <lastmod>2026-06-02T10:00:00+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/the-future-of-gaming-web3/</loc>
+    <lastmod>2026-06-02T10:00:00+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/web3/</loc>
+    <lastmod>2026-06-02T10:00:00+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

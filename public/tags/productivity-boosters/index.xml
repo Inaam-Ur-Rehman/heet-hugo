@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Productivity-Boosters on Heet</title>
+    <link>http://localhost:1313/tags/productivity-boosters/</link>
+    <description>Recent content in Productivity-Boosters on Heet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Jun 2026 10:00:00 +0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/productivity-boosters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kickstart Your Day Right: Lively Morning Meeting Games to Spark Creativity and Teamwork</title>
+      <link>http://localhost:1313/posts/morning-meeting-games/</link>
+      <pubDate>Fri, 05 Jun 2026 10:00:00 +0500</pubDate>
+      <guid>http://localhost:1313/posts/morning-meeting-games/</guid>
+      <description>Boost morale with engaging morning meeting games like Pictionary and Two Truths and a Lie. These icebreakers spark creativity, foster workplace teamwork, and transform daily assemblies.</description>
+    </item>
+  </channel>
+</rss>

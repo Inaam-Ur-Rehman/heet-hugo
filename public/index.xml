@@ -6,84 +6,49 @@
     <description>Recent content on Heet</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Apr 2026 10:00:00 +0500</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 10:00:00 +0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Cyberpunk Revival: How Modders Saved Night City</title>
-      <link>http://localhost:1313/posts/01-cyberpunk-2077-revival/</link>
-      <pubDate>Thu, 02 Apr 2026 10:00:00 +0500</pubDate>
-      <guid>http://localhost:1313/posts/01-cyberpunk-2077-revival/</guid>
-      <description>After years of development turbulence, the community has completely overhauled the game engine, delivering the ultimate sci-fi experience we were promised.</description>
+      <title>Indoor games for youth</title>
+      <link>http://localhost:1313/posts/indoor-games-for-youth/</link>
+      <pubDate>Fri, 05 Jun 2026 10:00:00 +0500</pubDate>
+      <guid>http://localhost:1313/posts/indoor-games-for-youth/</guid>
+      <description>Keep the excitement high with top indoor games for youth groups! From scavenger hunts to human knots, unleash fun and teamwork indoors.</description>
     </item>
     <item>
-      <title>Global Esports Final Breaks Concurrent Viewership Records</title>
-      <link>http://localhost:1313/posts/02-esports-championship/</link>
-      <pubDate>Wed, 01 Apr 2026 14:30:00 +0500</pubDate>
-      <guid>http://localhost:1313/posts/02-esports-championship/</guid>
-      <description>Over 14 million concurrent viewers logged into the tactical grid yesterday, shattering previous records and establishing a new era for competitive gaming.</description>
+      <title>Kickstart Your Day Right: Lively Morning Meeting Games to Spark Creativity and Teamwork</title>
+      <link>http://localhost:1313/posts/morning-meeting-games/</link>
+      <pubDate>Fri, 05 Jun 2026 10:00:00 +0500</pubDate>
+      <guid>http://localhost:1313/posts/morning-meeting-games/</guid>
+      <description>Boost morale with engaging morning meeting games like Pictionary and Two Truths and a Lie. These icebreakers spark creativity, foster workplace teamwork, and transform daily assemblies.</description>
     </item>
     <item>
-      <title>Next-Gen Hardware: The Quantium Chip Leak</title>
-      <link>http://localhost:1313/posts/03-next-gen-hardware/</link>
-      <pubDate>Tue, 31 Mar 2026 09:15:00 +0500</pubDate>
-      <guid>http://localhost:1313/posts/03-next-gen-hardware/</guid>
-      <description>Hardware supply chains have leaked schematics for what appears to be a fundamentally new console architecture utilizing quantum-state memory buffers.</description>
+      <title>Tough New AT-AT-Like Enemy in Helldivers 2</title>
+      <link>http://localhost:1313/posts/tough-new-at-at-like-enemy-in/</link>
+      <pubDate>Fri, 05 Jun 2026 10:00:00 +0500</pubDate>
+      <guid>http://localhost:1313/posts/tough-new-at-at-like-enemy-in/</guid>
+      <description>Helldivers 2 bumps the level cap to 150, adds blizzards and sandstorms, and stealthily deploys the &amp;ldquo;Factory Strider&amp;rdquo;—a massive, heavily armed Automaton walking fortress that spawns Devastators.</description>
     </item>
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Mon, 30 Mar 2026 23:32:01 +0500</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <title>Introducing the PGL CS2 2025-2026: An Era of Change</title>
+      <link>http://localhost:1313/posts/the-pgl-cs2-2025-2026-tournaments/</link>
+      <pubDate>Thu, 04 Jun 2026 10:00:00 +0500</pubDate>
+      <guid>http://localhost:1313/posts/the-pgl-cs2-2025-2026-tournaments/</guid>
+      <description>PGL will host 11 Tier 1 CS2 events through 2025–2026, breaking market monopolies under new anti-conflict rules to elevate global esports competition.</description>
     </item>
     <item>
-      <title>Algorithmic Dungeons: When AI Plays Dungeon Master</title>
-      <link>http://localhost:1313/posts/04-ai-dungeons/</link>
-      <pubDate>Mon, 30 Mar 2026 18:45:00 +0500</pubDate>
-      <guid>http://localhost:1313/posts/04-ai-dungeons/</guid>
-      <description>Local LLMs are being integrated directly into RPG logic systems, resulting in NPCs that converse dynamically and worlds that react fluidly.</description>
+      <title>CS GO News: Inside the G2 vs Mouz Match Stage Invasion</title>
+      <link>http://localhost:1313/posts/csgo-news-inside-the-g2-vs-mouz-match-stage-invasion/</link>
+      <pubDate>Wed, 03 Jun 2026 10:00:00 +0500</pubDate>
+      <guid>http://localhost:1313/posts/csgo-news-inside-the-g2-vs-mouz-match-stage-invasion/</guid>
+      <description>In the realm of CS GO news, an unexpected event unfolded during the G2 vs MOUZ match at the CS GO Major in Copenhagen, sparking widespread attention in the esports community.</description>
     </item>
     <item>
-      <title>Virtual Reality Reaches Retina Resolution</title>
-      <link>http://localhost:1313/posts/05-vr-screens/</link>
-      <pubDate>Sun, 29 Mar 2026 11:20:00 +0500</pubDate>
-      <guid>http://localhost:1313/posts/05-vr-screens/</guid>
-      <description>The biggest complaint about VR—the screen door effect—is finally dead thanks to new micro-OLED manufacturing techniques.</description>
-    </item>
-    <item>
-      <title>Speedrunning: The Frame-Perfect Revolution</title>
-      <link>http://localhost:1313/posts/06-speedrun-revolution/</link>
-      <pubDate>Sat, 28 Mar 2026 16:05:00 +0500</pubDate>
-      <guid>http://localhost:1313/posts/06-speedrun-revolution/</guid>
-      <description>A new era of algorithmic route mapping allows speedrunners to find sequence breaks that human intuition simply could never calculate.</description>
-    </item>
-    <item>
-      <title>The Indie Game Domination of 2026</title>
-      <link>http://localhost:1313/posts/07-indie-domination/</link>
-      <pubDate>Fri, 27 Mar 2026 10:30:00 +0500</pubDate>
-      <guid>http://localhost:1313/posts/07-indie-domination/</guid>
-      <description>AAA studios spent $300 million on flop titles this year while solo developers utilizing generative assets completely absorbed the market share.</description>
-    </item>
-    <item>
-      <title>Retro Revival: When Pixels Cost a Premium</title>
-      <link>http://localhost:1313/posts/08-retro-revival/</link>
-      <pubDate>Thu, 26 Mar 2026 14:45:00 +0500</pubDate>
-      <guid>http://localhost:1313/posts/08-retro-revival/</guid>
-      <description>Original hardware CRTs and cartridge batteries are failing globally, leading to a massive spike in hardware preservation efforts.</description>
-    </item>
-    <item>
-      <title>Cloud Gaming: Latency Finally Conquered?</title>
-      <link>http://localhost:1313/posts/09-cloud-gaming/</link>
-      <pubDate>Wed, 25 Mar 2026 09:20:00 +0500</pubDate>
-      <guid>http://localhost:1313/posts/09-cloud-gaming/</guid>
-      <description>Through predictive input algorithms and edge-node routing, competitive players are finally admitting that cloud streaming is virtually indistinguishable from local hardware.</description>
-    </item>
-    <item>
-      <title>The Engine War: Unreal Versus the Proprietary Giants</title>
-      <link>http://localhost:1313/posts/10-engine-wars/</link>
-      <pubDate>Tue, 24 Mar 2026 17:10:00 +0500</pubDate>
-      <guid>http://localhost:1313/posts/10-engine-wars/</guid>
-      <description>As third-party engines become terrifyingly powerful, studios are abandoning billions of dollars in proprietary engine R&amp;amp;D to hop on the standardized bandwagon.</description>
+      <title>The Future of Gaming: Everything You Need to Know About Web3 Gaming</title>
+      <link>http://localhost:1313/posts/the-future-of-gaming-web3/</link>
+      <pubDate>Tue, 02 Jun 2026 10:00:00 +0500</pubDate>
+      <guid>http://localhost:1313/posts/the-future-of-gaming-web3/</guid>
+      <description>As an avid gamer and technology enthusiast, I have witnessed firsthand the remarkable evolution of the gaming industry. From pixelated screens to immersive 3D environments, the transformation has been nothing short of a digital renaissance.</description>
     </item>
     <item>
       <title>Contact HQ</title>
